@@ -1,4 +1,4 @@
-# Unity-Game
+# Labyrinthine Escapades: Maze Madness
 VR Maze Game
 
 The game, designed for the Oculus Go, was made with Unity and C#.
